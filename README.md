@@ -1,6 +1,6 @@
 # Rafael Maldonado
 
-Cloud Infrastructure Engineer — AWS · Azure · Terraform · AI-Assisted DevOps
+Cloud Infrastructure Engineer — AWS · Azure · Terraform · Claude Code
 
 10+ years managing production cloud and on-prem infrastructure, now focused on AI-assisted automation — using tools like Claude Code to build and ship faster. Fully remote since 2016. Veteran.
 
